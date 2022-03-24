@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walkonies
+- 👋 Hi, I’m @walkonies (Alex)
 - 👀 I’m interested in video games, machine learning, computer vision, and everything computer related
 - 🌱 I’m currently learning basic software engineering principles
 - 💞️ I’m looking to collaborate on anything that keeps me busy and interested.
